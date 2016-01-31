@@ -1,0 +1,43 @@
+tile.purtaniumore.name=Purtanium Ore
+item.purtaniumingot.name=Purtanium Ingot
+tile.purtaniumblock.name=Purtanium Block
+
+item.purtaniumboots.name=Purtanium Boots
+item.purtaniumchestplate.name=Purtanium ChestPlate
+item.purtaniumhelmet.name=Purtanium Helmet
+item.purtaniumleggings.name=Purtanium Leggings
+
+item.purtaniumaxe.name=Purtanium Axe
+item.purtaniumhoe.name=Purtanium Hoe
+item.purtaniumpickaxe.name=Purtanium PickAxe
+item.purtaniumshovel.name=Purtanium Shovel
+item.purtaniumsword.name=Purtanium Sword
+item.purtaniumshears.name=Purtanium Shears
+
+item.purtaniumdooritem.name=Purtanium Door
+item.purtaniumbucket.name=Purtanium Bucket
+item.purtaniumbucketwater.name=Purtanium Water Bucket
+item.purtaniumbucketlava.name=Purtanium Lava Bucket
+item.purtaniumbucketmilk.name=Purtanium Milk Bucket
+tile.purtaniumplate.name=Purtanium Weighted Pressure Plate
+tile.purtaniumhopper.name=Purtanium Hopper
+tile.purtaniumanvil.name=Purtanium Anvil
+tile.purtaniumanvil.0.name=Purtanium Anvil
+tile.purtaniumanvil.1.name=Purtanium Anvil Slightly Damaged
+tile.purtaniumanvil.2.name=Purtanium Anvil Very Damaged
+tile.purtaniumbars.name=Purtanium Bars
+tile.purtaniumcauldron.name=Purtanium Cauldron
+item.purtaniumcauldron.name=Purtanium Cauldron
+
+item.chocolate.name=Chocolate
+item.whitechocolate.name=White Chocolate
+item.chocolateicecream.name=Chocolate Ice Cream
+item.candcicecream.name=Cookies & Cream Ice Cream
+item.omelette.name=Plain Omelette
+item.meatomelette.name=Meat & Potato Omelette
+item.friedegg.name=Fried Egg
+
+itemGroup.Purtanium=Purtanium
+
+death.attack.purtanium.purtaniumanvil=Purtanium anvil in your face
+death.attack.purtanium.purtaniumanvil.player=Someone dropped a Purtanium anvil on your face
